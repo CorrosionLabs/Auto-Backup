@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="img/cabe_github%20autobackup.png" alt="Auto Backup" width="800">
+</p>
+
+
 # Auto Backup
 
 Lightweight Windows utility for automatic rolling ZIP backups with FIFO retention and permanent manual snapshots.
