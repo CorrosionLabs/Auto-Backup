@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/cabe_github%20autobackup.png" alt="Auto Backup" width="800">
+  <img src="img/cabe_github%20autobackup.png" alt="Auto Backup" width="1000">
 </p>
 
 
